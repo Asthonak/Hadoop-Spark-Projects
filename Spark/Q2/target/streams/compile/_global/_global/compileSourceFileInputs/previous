@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["/home/ethanpark/Desktop/CS 433/Homework 2/Q2/src/main/scala/Top10Retweets.scala","da6631a01f323083ab76bafcd68e1c0ab1207f3e"]],"lastModifiedTimes":[]}}]

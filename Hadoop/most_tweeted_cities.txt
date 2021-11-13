@@ -1,0 +1,10 @@
+4518	Los Angeles
+4332	New York
+3052	Los Angeles, CA
+2746	Chicago
+2448	New York, NY
+1836	Atlanta, GA
+1696	San Francisco
+1554	Chicago, IL
+1523	Washington, DC
+1478	San Francisco, CA

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ethanpark/Top10Users/src/main/scala/Top10Users.scala:57:31: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : org.apache.spark.rdd.RDD[(String, Int)][0m
+[0m[[0m[31merror[0m] [0m[0m required: Seq[?][0m
+[0m[[0m[31merror[0m] [0m[0mError occurred in an application involving default arguments.[0m
+[0m[[0m[31merror[0m] [0m[0m    val test = sc.parallelize(tweetUsersCount)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
